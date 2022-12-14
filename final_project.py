@@ -1,5 +1,7 @@
-import pandas, re, time, pytz, datetime
+import pandas, re, time, pytz, datetime, os
 import heartpy as hp
+from meteostat import Point, Hourly
+from geopy.geocoders import Nominatim
 from fitness_tracker_data_parsing import get_dataframes
 
 strava_folder = './strava_ronith/'
@@ -31,17 +33,38 @@ def filter_by_date(df, start, end):
 
 
 def df_to_csv(df, name):
-    file_name = f'{name}.csv'
+    file_name = f'fit_data/{name}.csv'
+    if os.path.isfile(file_name):
+        return
     file = open(file_name, 'w+')
     file.close()
     df.to_csv(file_name, encoding='utf-8', index=False, header=True)
 
 
+def cel_to_far(num):
+    return int(num * 9 /5 + 32)
+
+
 def get_historical_weather(df):
     start_lat, start_long, start_timestamp = df.iloc[0]['latitude'], df.iloc[0]['longitude'], df.iloc[0]['timestamp']
     end_lad, end_long, end_timestamp = df.iloc[-1]['latitude'], df.iloc[-1]['longitude'], df.iloc[-1]['timestamp']
-    print('start', time.mktime(start_timestamp.timetuple()), datetime_to_EST(start_timestamp))
-    print('end', time.mktime(end_timestamp.timetuple()), end_timestamp.astimezone(est).strftime(fmt))
+    start, end = start_timestamp.to_pydatetime(), end_timestamp.to_pydatetime()
+    # print('start', time.mktime(start_timestamp.timetuple()))
+    # print('end', time.mktime(end_timestamp.timetuple()))
+    # print(start, type(start))
+
+    start, end = start.replace(tzinfo=None), end.replace(tzinfo=None)
+
+    location = Point(start_lat, start_long)
+    data = Hourly(location, start, end)
+    data = data.fetch()
+    for index, row in data.iterrows():
+        temp = row['temp']
+        print(index, cel_to_far(temp))
+
+    geolocator = Nominatim(user_agent="privacy_strava")
+    location = geolocator.reverse(f"{start_lat}, {start_long}")
+    print(location.address)
 
 
 def datetime_to_EST(dt):
@@ -61,16 +84,16 @@ def main():
         fit_file = strava_folder + fn[0]
 
         laps, points = get_dataframes(fit_file)
-        print(points.info())
+        # print(points.info())
         clean_points = points.drop('altitude', axis=1)
         clean_points = clean_points.dropna()
 
         clean_points.reset_index()
-        print(clean_points)
+        # print(clean_points)
         file_number = re.findall(r'\d+', fn[0])[0]
         df_to_csv(clean_points, str(file_number))
         get_historical_weather(clean_points)
-        break
+        print()
 
 if __name__ == "__main__":
     main()
