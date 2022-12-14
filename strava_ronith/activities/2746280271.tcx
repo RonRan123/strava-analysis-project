@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TrainingCenterDatabase xsi:schemaLocation="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd" xmlns:ns5="http://www.garmin.com/xmlschemas/ActivityGoals/v1" xmlns:ns3="http://www.garmin.com/xmlschemas/ActivityExtension/v2" xmlns:ns2="http://www.garmin.com/xmlschemas/UserProfile/v2" xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Activities>
+  <Activity Sport="Running">
+   <Id>2019-08-03T14:40:51+00:00</Id>
+   <Lap StartTime="2019-08-03T14:40:51+00:00">
+    <TotalTimeSeconds>33.775001525878906</TotalTimeSeconds>
+    <DistanceMeters>5.670000076293945</DistanceMeters>
+    <MaximumSpeed>0.4</MaximumSpeed>
+    <Calories>0</Calories>
+    <Intensity>Active</Intensity>
+    <Cadence>77</Cadence>
+    <TriggerMethod>Manual</TriggerMethod>
+    <Track>
+     <Trackpoint>
+      <Time>2019-08-03T14:40:51+00:00</Time>
+      <DistanceMeters>3.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>77</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:40:52+00:00</Time>
+      <DistanceMeters>3.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:40:53+00:00</Time>
+      <DistanceMeters>3.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:40:54+00:00</Time>
+      <DistanceMeters>3.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:40:55+00:00</Time>
+      <DistanceMeters>3.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:40:56+00:00</Time>
+      <DistanceMeters>3.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:40:57+00:00</Time>
+      <DistanceMeters>3.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:40:58+00:00</Time>
+      <DistanceMeters>3.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:40:59+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.4</Speed>
+        <RunCadence>77</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:00+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.4</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:01+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.4</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:02+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.4</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:03+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.4</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:04+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:05+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:06+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:07+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:08+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:09+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:10+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:11+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:12+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:13+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:14+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:15+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:16+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:17+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:18+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:19+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:20+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:21+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:22+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:23+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-03T14:41:24+00:00</Time>
+      <DistanceMeters>5.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+    </Track>
+   </Lap>
+  </Activity>
+ </Activities>
+</TrainingCenterDatabase>

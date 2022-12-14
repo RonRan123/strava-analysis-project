@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TrainingCenterDatabase xsi:schemaLocation="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd" xmlns:ns5="http://www.garmin.com/xmlschemas/ActivityGoals/v1" xmlns:ns3="http://www.garmin.com/xmlschemas/ActivityExtension/v2" xmlns:ns2="http://www.garmin.com/xmlschemas/UserProfile/v2" xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Activities>
+  <Activity Sport="Running">
+   <Id>2020-03-29T18:10:10+00:00</Id>
+   <Lap StartTime="2020-03-29T18:10:10+00:00">
+    <TotalTimeSeconds>30.190000534057617</TotalTimeSeconds>
+    <DistanceMeters>66.63999938964844</DistanceMeters>
+    <MaximumSpeed>3.4</MaximumSpeed>
+    <Calories>0</Calories>
+    <Intensity>Active</Intensity>
+    <Cadence>63</Cadence>
+    <TriggerMethod>Manual</TriggerMethod>
+    <Track>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:10+00:00</Time>
+      <DistanceMeters>2.1</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>63</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:11+00:00</Time>
+      <DistanceMeters>2.1</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:12+00:00</Time>
+      <DistanceMeters>2.1</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:13+00:00</Time>
+      <DistanceMeters>2.1</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:14+00:00</Time>
+      <DistanceMeters>2.1</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:15+00:00</Time>
+      <DistanceMeters>2.1</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:16+00:00</Time>
+      <DistanceMeters>2.1</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:17+00:00</Time>
+      <DistanceMeters>2.1</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>0</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:18+00:00</Time>
+      <DistanceMeters>4.5</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.5</Speed>
+        <RunCadence>63</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:19+00:00</Time>
+      <DistanceMeters>6.8</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.9</Speed>
+        <RunCadence>63</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:20+00:00</Time>
+      <DistanceMeters>9.1</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>1.4</Speed>
+        <RunCadence>64</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:21+00:00</Time>
+      <DistanceMeters>11.5</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>1.9</Speed>
+        <RunCadence>64</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:22+00:00</Time>
+      <DistanceMeters>13.8</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>2.3</Speed>
+        <RunCadence>64</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:23+00:00</Time>
+      <DistanceMeters>16.9</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>2.5</Speed>
+        <RunCadence>64</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:24+00:00</Time>
+      <DistanceMeters>19.4</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>2.5</Speed>
+        <RunCadence>64</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:25+00:00</Time>
+      <DistanceMeters>22.6</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>2.7</Speed>
+        <RunCadence>64</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:26+00:00</Time>
+      <DistanceMeters>25.6</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>2.8</Speed>
+        <RunCadence>64</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:27+00:00</Time>
+      <DistanceMeters>29.2</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>3.1</Speed>
+        <RunCadence>64</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:28+00:00</Time>
+      <DistanceMeters>32.3</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>3.1</Speed>
+        <RunCadence>64</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:29+00:00</Time>
+      <DistanceMeters>35.5</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>3.2</Speed>
+        <RunCadence>64</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:30+00:00</Time>
+      <DistanceMeters>39.1</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>3.3</Speed>
+        <RunCadence>64</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:31+00:00</Time>
+      <DistanceMeters>42.4</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>3.4</Speed>
+        <RunCadence>64</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:32+00:00</Time>
+      <DistanceMeters>45.2</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>3.2</Speed>
+        <RunCadence>64</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:33+00:00</Time>
+      <DistanceMeters>47.9</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>3.1</Speed>
+        <RunCadence>64</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:34+00:00</Time>
+      <DistanceMeters>51.1</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>3.1</Speed>
+        <RunCadence>64</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:35+00:00</Time>
+      <DistanceMeters>54.4</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>3.1</Speed>
+        <RunCadence>64</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:36+00:00</Time>
+      <DistanceMeters>57.4</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>3.0</Speed>
+        <RunCadence>64</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:37+00:00</Time>
+      <DistanceMeters>60.0</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>3.0</Speed>
+        <RunCadence>64</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:38+00:00</Time>
+      <DistanceMeters>62.3</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>2.9</Speed>
+        <RunCadence>64</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2020-03-29T18:10:39+00:00</Time>
+      <DistanceMeters>64.5</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>2.7</Speed>
+        <RunCadence>64</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+    </Track>
+   </Lap>
+  </Activity>
+ </Activities>
+</TrainingCenterDatabase>

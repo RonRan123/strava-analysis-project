@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TrainingCenterDatabase xsi:schemaLocation="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd" xmlns:ns5="http://www.garmin.com/xmlschemas/ActivityGoals/v1" xmlns:ns3="http://www.garmin.com/xmlschemas/ActivityExtension/v2" xmlns:ns2="http://www.garmin.com/xmlschemas/UserProfile/v2" xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Activities>
+  <Activity Sport="Running">
+   <Id>2019-08-12T01:38:13+00:00</Id>
+   <Lap StartTime="2019-08-12T01:38:13+00:00">
+    <TotalTimeSeconds>3.680999994277954</TotalTimeSeconds>
+    <DistanceMeters>13.8100004196167</DistanceMeters>
+    <MaximumSpeed>1.0</MaximumSpeed>
+    <Calories>0</Calories>
+    <Intensity>Active</Intensity>
+    <Cadence>74</Cadence>
+    <TriggerMethod>Manual</TriggerMethod>
+    <Track>
+     <Trackpoint>
+      <Time>2019-08-12T01:38:13+00:00</Time>
+      <DistanceMeters>9.7</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>0.0</Speed>
+        <RunCadence>74</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-08-12T01:38:17+00:00</Time>
+      <DistanceMeters>13.8</DistanceMeters>
+      <Extensions>
+       <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+        <Speed>1.0</Speed>
+        <RunCadence>74</RunCadence>
+       </TPX>
+      </Extensions>
+     </Trackpoint>
+    </Track>
+   </Lap>
+  </Activity>
+ </Activities>
+</TrainingCenterDatabase>

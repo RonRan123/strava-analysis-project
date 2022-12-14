@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TrainingCenterDatabase xsi:schemaLocation="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd" xmlns:ns5="http://www.garmin.com/xmlschemas/ActivityGoals/v1" xmlns:ns3="http://www.garmin.com/xmlschemas/ActivityExtension/v2" xmlns:ns2="http://www.garmin.com/xmlschemas/UserProfile/v2" xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <Activities>
+  <Activity Sport="Running">
+   <Id>2019-05-08T23:38:05+00:00</Id>
+   <Lap StartTime="2019-05-08T23:38:05+00:00">
+    <TotalTimeSeconds>4.771999835968018</TotalTimeSeconds>
+    <DistanceMeters>0</DistanceMeters>
+    <MaximumSpeed>0.0</MaximumSpeed>
+    <Calories>0</Calories>
+    <Intensity>Active</Intensity>
+    <TriggerMethod>Manual</TriggerMethod>
+    <Track>
+     <Trackpoint>
+      <Time>2019-05-08T23:38:05+00:00</Time>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-05-08T23:38:06+00:00</Time>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-05-08T23:38:07+00:00</Time>
+     </Trackpoint>
+     <Trackpoint>
+      <Time>2019-05-08T23:38:08+00:00</Time>
+     </Trackpoint>
+    </Track>
+   </Lap>
+  </Activity>
+ </Activities>
+</TrainingCenterDatabase>

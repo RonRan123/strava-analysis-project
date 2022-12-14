@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX iPhone" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <time>2017-08-11T02:08:32Z</time>
+ </metadata>
+ <trk>
+  <name>Evening Run</name>
+  <type>9</type>
+  <trkseg>
+   <trkpt lat="44.3906630" lon="-110.5505690">
+    <ele>2371.1</ele>
+    <time>2017-08-11T02:08:32Z</time>
+   </trkpt>
+   <trkpt lat="44.3906850" lon="-110.5507450">
+    <ele>2371.1</ele>
+    <time>2017-08-11T02:08:34Z</time>
+   </trkpt>
+   <trkpt lat="44.3906240" lon="-110.5506820">
+    <ele>2371.2</ele>
+    <time>2017-08-11T02:09:10Z</time>
+   </trkpt>
+   <trkpt lat="44.3905970" lon="-110.5506480">
+    <ele>2371.3</ele>
+    <time>2017-08-11T02:09:13Z</time>
+   </trkpt>
+   <trkpt lat="44.3905740" lon="-110.5506220">
+    <ele>2371.4</ele>
+    <time>2017-08-11T02:09:20Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
